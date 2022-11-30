@@ -8,6 +8,6 @@ require (
 )
 
 require (
-	github.com/gomodul/dbssh v0.0.0-20221130083227-56b41ef60433 // indirect
+	github.com/gomodul/dbssh v0.0.1-alpha // indirect
 	golang.org/x/sys v0.2.0 // indirect
 )
